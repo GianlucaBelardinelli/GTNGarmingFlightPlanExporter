@@ -1,5 +1,7 @@
 # Garming GNT Route Exporter
 
+![alt tag](https://github.com/GianlucaBelardinelli/GTNGarmingFlightPlanExporter/blob/master/build/GTN%20Route%20Exporter.PNG)
+
 Use Garming GTN Route Exporter if you need to export a flight plan route to your Flight Simulator.
 You need to have installed Flight1 GTN 750 and GTN 650 in your Flight Simulator.
 
