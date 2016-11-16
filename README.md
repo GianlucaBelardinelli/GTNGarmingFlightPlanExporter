@@ -19,9 +19,15 @@ You only need to have Java installed in your Desktop!
  - Show Route on Google MAPS
  - TBD
  - 
- ### Changelog
+### Changelog
 
 V 1.0.0 -> First Release.
+
+### Example
+
+Departure: LIMF
+Arrival: LIRF
+Route: LAGEN UL50 ELB UL146 ELKAP
 
 License
 ----
