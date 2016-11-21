@@ -1,4 +1,4 @@
-# Garming GNT Route Exporter
+# Garming GTN Route Exporter
 
 ![alt tag](https://github.com/GianlucaBelardinelli/GTNGarmingFlightPlanExporter/blob/master/build/GTN%20Route%20Exporter.PNG)
 
